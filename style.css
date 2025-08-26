@@ -1,0 +1,41 @@
+/* ✅ Body Styling */
+body {
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 50px;
+  color: white;
+}
+
+/* ✅ Heading */
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+/* ✅ Paragraph */
+p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+/* ✅ Button Style */
+a.btn {
+  display: inline-block;
+  padding: 12px 25px;
+  margin: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  background-color: #ff5733;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+/* ✅ Hover Effect */
+a.btn:hover {
+  background-color: #e74c3c;
+  transform: scale(1.05);
+}
