@@ -1,9 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
   <url>
     <loc>https://jayveer84.github.io/92-pak/</loc>
     <lastmod>2025-08-28</lastmod>
-    <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <!-- Telegram -->
+  <url>
+    <loc>https://t.me/TeacherEmi_92star</loc>
+    <lastmod>2025-08-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Register -->
+  <url>
+    <loc>https://www.92star3.com/#/register?invitationCode=68465100381</loc>
+    <lastmod>2025-08-28</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Login -->
+  <url>
+    <loc>https://www.92star3.com/#/</loc>
+    <lastmod>2025-08-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
