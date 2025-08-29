@@ -10,12 +10,12 @@ body {
 <style>
   .btn {
     display: inline-block;
-    padding: 20px 35px; /* Bigger size */
-    font-size: 20px;    /* Larger text */
+    padding: 50px 45px; /* Bigger size */
+    font-size: 30px;    /* Larger text */
     font-weight: bold;
-    border-radius: 15px; /* Smooth corners */
+    border-radius: 25px; /* Smooth corners */
     text-decoration: none;
-    margin: 20px;
+    margin: 40px;
     transition: all 0.3s ease-in-out;
   }
 
