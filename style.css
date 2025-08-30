@@ -10,31 +10,50 @@ body {
 <style>
   .btn {
     display: inline-block;
-    padding: 200px 45px; /* Bigger size */
-    font-size: 60px;    /* Larger text */
+    padding: 18px 36px;   /* 🔥 Bigger button */
+    font-size: 20px;      /* Larger text */
     font-weight: bold;
-    border-radius: 50px; /* Smooth corners */
+    border-radius: 12px;  /* More rounded */
     text-decoration: none;
-    margin: 100px;
+    margin: 15px;
     transition: all 0.3s ease-in-out;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2); /* Shadow for 3D effect */
   }
 
+  /* Register Button */
   .btn-register {
-    background-color: #28a745; /* Green */
+    background: linear-gradient(135deg, #28a745, #5cd65c); /* Green gradient */
     color: white;
   }
   .btn-register:hover {
-    background-color: #218838; /* Darker green on hover */
+    background: linear-gradient(135deg, #218838, #4caf50);
+    transform: scale(1.08); /* Slight zoom on hover */
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
   }
 
+  /* Login Button */
   .btn-login {
-    background-color: #007bff; /* Blue */
+    background: linear-gradient(135deg, #007bff, #3399ff); /* Blue gradient */
     color: white;
   }
   .btn-login:hover {
-    background-color: #0056b3; /* Darker blue on hover */
+    background: linear-gradient(135deg, #0056b3, #1e88e5);
+    transform: scale(1.08);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  }
+
+  /* Telegram Button */
+  .btn-telegram {
+    background: linear-gradient(135deg, #0088cc, #33bbff); /* Telegram blue */
+    color: white;
+  }
+  .btn-telegram:hover {
+    background: linear-gradient(135deg, #006699, #1ca9e6);
+    transform: scale(1.08);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.3);
   }
 </style>
+
 
 
 /* ✅ Heading */
