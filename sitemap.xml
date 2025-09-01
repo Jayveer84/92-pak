@@ -1,46 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Homepage -->
-  <url>
-    <loc>https://jayveer84.github.io/92-pak/</loc>
-    <lastmod>2025-08-28</lastmod>
-    <priority>1.0</priority>
-  </url>
-
-  <!-- About Page -->
-  <url>
-    <loc>https://jayveer84.github.io/92-pak/about.html</loc>
-    <lastmod>2025-08-28</lastmod>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Contact Page -->
-  <url>
-    <loc>https://jayveer84.github.io/92-pak/contact.html</loc>
-    <lastmod>2025-08-28</lastmod>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Blog Page -->
-  <url>
-    <loc>https://jayveer84.github.io/92-pak/blog.html</loc>
-    <lastmod>2025-08-28</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Privacy Policy -->
-  <url>
-    <loc>https://jayveer84.github.io/92-pak/privacy.html</loc>
-    <lastmod>2025-08-28</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Terms & Conditions -->
-  <url>
-    <loc>https://jayveer84.github.io/92-pak/terms.html</loc>
-    <lastmod>2025-08-28</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-</urlset>
+https://jayveer84.github.io/92-pak/
+https://jayveer84.github.io/92-pak/about.html
+https://jayveer84.github.io/92-pak/contact.html
+https://jayveer84.github.io/92-pak/blog.html
+https://jayveer84.github.io/92-pak/privacy.html
+https://jayveer84.github.io/92-pak/terms.html
