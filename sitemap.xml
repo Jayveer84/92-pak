@@ -1,6 +1,15 @@
-https://jayveer84.github.io/92-pak/
-https://jayveer84.github.io/92-pak/about.html
-https://jayveer84.github.io/92-pak/contact.html
-https://jayveer84.github.io/92-pak/blog.html
-https://jayveer84.github.io/92-pak/privacy.html
-https://jayveer84.github.io/92-pak/terms.html
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://jayveer84.github.io/92-pak/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://jayveer84.github.io/92-pak/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://jayveer84.github.io/92-pak/contact.html</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
